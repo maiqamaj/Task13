@@ -89,6 +89,5 @@ public class GradesReportTest {
      //for (long j=0;j<10000000;j++)
      //{     GradesReport.calculateStduentAverage(grades); }
      GradesReport.calculateStduentAverage(grades);
-
 	}
 }
